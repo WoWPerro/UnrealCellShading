@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/M_CellShader.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/MI_CellShader.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IJ/HBTA22U5PUP0Z01NURYPOK.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/M_Metal.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9Q/K16TUOK44MGV5XVQO4H5I8.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/M_PixelArt_PP.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/MI_PixelArt_PP.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/M_Outline.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/MI_Outline.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/TokyoStylizedEnvironment/Maps/Tokyo.umap",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/PP_ToonShader.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/PPI_ToonShader.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/PP_OutlineShader.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/PPI_OutlineShader.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/Functions/MF_GetKernel.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/Functions/MF_DetectEdges_Depth.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/Functions/MF_DetectEdges_Normal.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/Functions/MF_OMT_GrazingAngle.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/Functions/MF_ThicknessFromDepth.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/Functions/MF_MaskDepth.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/Functions/MF_Mask_CustomDepth.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/M_CellShader2.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/MI_CellShader2.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/Art/Functions/MF_DetectEdges.uasset",
+				"D:/WoWPerroDev/Cursos/UnrealArtPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+			]
+		}
+	]
+}
